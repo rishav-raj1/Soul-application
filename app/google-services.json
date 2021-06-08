@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504324188562",
+    "project_id": "soul-74f37",
+    "storage_bucket": "soul-74f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504324188562:android:cff5cdb5fb4434c0b4b94b",
+        "android_client_info": {
+          "package_name": "com.rishav.kumar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504324188562-ett8c27m87gfpqln2s1plhohij4e4csk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdMK2z6JXwMPSlHrKLGj-ZEQmFaualQsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504324188562-ett8c27m87gfpqln2s1plhohij4e4csk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
